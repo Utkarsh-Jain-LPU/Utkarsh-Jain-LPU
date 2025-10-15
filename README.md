@@ -1,4 +1,4 @@
-![Header](./header.png)
+![Header](./header.jpg)
 
 
 # 👋 Hi, I'm Utkarsh Jain  
