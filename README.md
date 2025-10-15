@@ -1,3 +1,6 @@
+![Header](./header.png)
+
+
 # 👋 Hi, I'm Utkarsh Jain  
 
 💻 **Software Engineer at Informatica**  
