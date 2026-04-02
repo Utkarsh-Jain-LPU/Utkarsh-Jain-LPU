@@ -4,7 +4,7 @@
 
 <h1 align="center">👨‍💻 Utkarsh Jain</h1>
 
-<h3 align="center">Senior Software Engineer | Backend Architecture Specialist | Graph Database Expert</h3>
+<h3 align="center">Software Engineer @ Salesforce | Backend Systems Specialist | Graph Database Expert</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/utkarshjainlpu/">
@@ -29,22 +29,31 @@
 
 ## 🎯 Professional Summary
 
-**Software Engineer @ Informatica** with **3+ years** of experience building high-performance backend systems and graph database architectures.
+**Software Engineer @ Salesforce** with **5.5+ years** of experience building high-performance backend systems and graph database architectures.
 
 ```
 📍 Location: India
-💼 Current Role: Software Engineer @ Informatica
+💼 Current Role: Software Engineer @ Salesforce (Since March 2026)
+💼 Previous: Software Engineer @ Informatica (Sept 2020 - Feb 2026)
 🎓 Specialization: Backend Systems, Graph Databases, Performance Optimization
 🚀 Looking for: Full-time Opportunities, Consulting, Collaboration
 ```
 
-> Backend Engineer specializing in **high-performance Java systems** and **graph database architectures**. Proven track record of delivering **400% performance improvements** and building **scalable enterprise solutions**.
+> Backend Engineer specializing in **high-performance Java systems** and **graph database architectures**. Proven track record of delivering **400% performance improvements** and building **scalable enterprise solutions** across leading tech companies.
 
 ---
 
 ## 💼 Experience Highlights
 
+### 🏢 Software Engineer @ Salesforce
+**March 2026 - Present**
+
+- 🚀 Recently joined Salesforce to work on cutting-edge backend systems
+- 💼 Contributing to enterprise-scale cloud platform development
+- 🔧 Working with distributed systems and scalable architectures
+
 ### 🏢 Software Engineer @ Informatica
+**September 2020 - February 2026 (5.5 years)**
 
 **Performance Optimization**
 - ⚡ Achieved **400% faster** Cypher query execution
@@ -106,12 +115,21 @@
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Utkarsh-Jain-LPU&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" width="49%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Utkarsh-Jain-LPU&layout=compact&theme=radical&langs_count=8" alt="Top Languages" width="49%"/>
+  <a href="https://github.com/Utkarsh-Jain-LPU">
+    <img src="https://github-readme-stats.vercel.app/api?username=Utkarsh-Jain-LPU&show_icons=true&theme=radical&count_private=true&cache_seconds=1800" alt="GitHub Stats"/>
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Utkarsh-Jain-LPU&theme=radical" alt="GitHub Streak" width="49%"/>
+  <a href="https://github.com/Utkarsh-Jain-LPU">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Utkarsh-Jain-LPU&layout=compact&theme=radical&langs_count=8&cache_seconds=1800" alt="Top Languages"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Utkarsh-Jain-LPU">
+    <img src="https://streak-stats.demolab.com/?user=Utkarsh-Jain-LPU&theme=radical" alt="GitHub Streak"/>
+  </a>
 </p>
 
 ---
