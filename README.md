@@ -116,13 +116,13 @@
 
 <p align="center">
   <a href="https://github.com/Utkarsh-Jain-LPU">
-    <img src="https://github-readme-stats.vercel.app/api?username=Utkarsh-Jain-LPU&show_icons=true&theme=radical&count_private=true&cache_seconds=1800" alt="GitHub Stats"/>
+    <img src="./profile/stats.svg" alt="GitHub Stats"/>
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/Utkarsh-Jain-LPU">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Utkarsh-Jain-LPU&layout=compact&theme=radical&langs_count=8&cache_seconds=1800" alt="Top Languages"/>
+    <img src="./profile/top-langs.svg" alt="Top Languages"/>
   </a>
 </p>
 
