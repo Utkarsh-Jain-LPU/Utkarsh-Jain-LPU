@@ -111,3 +111,47 @@ Backend engineer with **5.5+ years** building high-performance systems at scale.
 |:---:|:---:|:---:|:---:|
 
 </div>
+
+---
+
+## LeetCode
+
+<div align="center">
+
+[![LeetCode Stats](https://leetcard.jacoblin.cool/Utkarsh_Jain?theme=dark&font=Fira%20Code&ext=heatmap)](https://leetcode.com/u/Utkarsh_Jain/)
+
+</div>
+
+---
+
+## Beyond Code
+
+<div align="center">
+
+| 🎮 **Gamer** | 🏍️ **Rider** | 🎵 **Music Lover** |
+|:---:|:---:|:---:|
+| Assassin's Creed fanatic | Mountain roads on two wheels | 90s hits on repeat |
+
+</div>
+
+---
+
+<div align="center">
+
+<a href="https://github.com/Utkarsh-Jain-LPU">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=500&lines=Let's+build+something+amazing+together!+%F0%9F%9A%80" alt="Typing SVG" />
+</a>
+
+**Open to collaborations, architecture discussions, and new opportunities**
+
+[![Email](https://img.shields.io/badge/utkarshjain7869@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:utkarshjain7869@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/utkarshjainlpu/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Utkarsh_Jain/)
+
+---
+
+```
+> "Building scalable systems, one commit at a time" ⚡
+```
+
+</div>
