@@ -22,3 +22,43 @@ Backend engineer with **5.5+ years** building high-performance systems at scale.
 ```
 > When I'm not coding, I'm exploring mountain roads on my bike, replaying Assassin's Creed, or vibing to 90s hits.
 ```
+
+---
+
+## Impact at a Glance
+
+<div align="center">
+
+![400%](https://img.shields.io/badge/400%25-Query_Speed_Boost-58A6FF?style=for-the-badge)
+![60%](https://img.shields.io/badge/60%25-Latency_Reduction-3FB950?style=for-the-badge)
+![3x](https://img.shields.io/badge/3x-Throughput_Gain-F0883E?style=for-the-badge)
+![30%](https://img.shields.io/badge/30%25-Memory_Optimized-A371F7?style=for-the-badge)
+
+</div>
+
+---
+
+## Experience
+
+### 🟢 Software Engineer @ Salesforce
+**Mar 2026 - Present** &nbsp; [![CURRENT](https://img.shields.io/badge/CURRENT-3FB950?style=flat-square)](#)
+
+- Building enterprise-scale cloud platform infrastructure
+- Working with distributed systems and scalable architectures
+- Contributing to next-generation backend services
+
+---
+
+### 🔵 Software Engineer @ Informatica
+**Sep 2020 - Feb 2026** &nbsp; `5.5 years`
+
+- Achieved **400% faster** Cypher query execution through deep query optimization
+- Reduced memory usage by **30%** via advanced data structure tuning
+- Decreased system latency by **60%** across critical data pipelines
+- Improved data processing throughput by **3x**
+- Architected enterprise job scheduler using Spring Boot & Quartz, handling thousands of scheduled tasks
+- Built graph analytics platform on Neo4j serving multiple business units
+- Led microservices architecture design for data processing pipelines
+- 🏆 **Outstanding Project Contribution Award** (Q2 2023)
+
+`Java` `Neo4j` `Spring Boot` `Quartz` `Microservices` `Cypher` `REST APIs`
