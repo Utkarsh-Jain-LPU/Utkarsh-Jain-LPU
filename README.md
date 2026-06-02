@@ -139,7 +139,7 @@ Backend engineer with **5.5+ years** building high-performance systems at scale.
 <div align="center">
 
 <a href="https://github.com/Utkarsh-Jain-LPU">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=500&lines=Lets+build+something+amazing+together!+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=600&lines=Let's+build+something+amazing+together!+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
 
 **Open to collaborations, architecture discussions, and new opportunities**
